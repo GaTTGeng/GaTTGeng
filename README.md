@@ -4,6 +4,12 @@
 
 </div>
 
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=435&lines=.NET+Infrastructure+SDK+Developer;HelmSharp+%7C+NfsSharp)
+
+</div>
+
 ---
 
 <div align="center">
@@ -39,18 +45,15 @@ Managed NFSv3 client and protocol SDK for .NET — pure C#, no native mount requ
 
 ### 🛠 Stack
 
-[![C#](https://img.shields.io/badge/C%23-.NET-512bd4?style=flat-square&logo=csharp)](https://dotnet.microsoft.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
-[![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Skills](https://skillicons.dev/icons?i=cs,dotnet,kubernetes,docker,python,vue,postgres)](https://skillicons.dev)
 
 ---
 
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GaTTGeng&show_icons=true&hide_border=true&theme=transparent&hide_rank=true)
+&nbsp;
+![Streak](https://streak-stats.demolab.com?user=GaTTGeng&hide_border=true&theme=transparent)
 
 </div>
 
