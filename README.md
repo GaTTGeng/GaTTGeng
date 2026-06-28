@@ -26,20 +26,33 @@
 
 [![CI](https://github.com/GaTTGeng/HelmSharp/actions/workflows/ci.yml/badge.svg)](https://github.com/GaTTGeng/HelmSharp/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/HelmSharp.Chart?label=NuGet&logo=nuget)](https://www.nuget.org/packages?q=HelmSharp)
-[![Downloads](https://img.shields.io/nuget/dt/HelmSharp.Chart?label=downloads)](https://www.nuget.org/packages?q=HelmSharp)
 [![Docs](https://img.shields.io/badge/docs-gattgeng.github.io%2FHelmSharp-blue)](https://gattgeng.github.io/HelmSharp/)
 
 Managed Helm rendering and Kubernetes release workflows for .NET — no `helm` binary required.
+
+![Chart](https://img.shields.io/nuget/dt/HelmSharp.Chart?label=Chart&style=flat-square)
+![Kube](https://img.shields.io/nuget/dt/HelmSharp.Kube?label=Kube&style=flat-square)
+![Release](https://img.shields.io/nuget/dt/HelmSharp.Release?label=Release&style=flat-square)
+![Registry](https://img.shields.io/nuget/dt/HelmSharp.Registry?label=Registry&style=flat-square)
+![Storage](https://img.shields.io/nuget/dt/HelmSharp.Storage?label=Storage&style=flat-square)
+![PostRenderer](https://img.shields.io/nuget/dt/HelmSharp.PostRenderer?label=PostRenderer&style=flat-square)
+![Engine](https://img.shields.io/nuget/dt/HelmSharp.Engine?label=Engine&style=flat-square)
+![Repo](https://img.shields.io/nuget/dt/HelmSharp.Repo?label=Repo&style=flat-square)
+![Action](https://img.shields.io/nuget/dt/HelmSharp.Action?label=Action&style=flat-square)
 
 ---
 
 ### 🗂 NfsSharp
 
 [![CI](https://github.com/GaTTGeng/NfsSharp/actions/workflows/ci.yml/badge.svg)](https://github.com/GaTTGeng/NfsSharp/actions/workflows/ci.yml)
-[![NuGet](https://img.shields.io/nuget/v/NfsSharp.Client?label=NuGet&logo=nuget)](https://www.nuget.org/packages/NfsSharp.Client)
-[![Downloads](https://img.shields.io/nuget/dt/NfsSharp.Client?label=downloads)](https://www.nuget.org/packages/NfsSharp.Client)
+[![NuGet](https://img.shields.io/nuget/v/NfsSharp.Client?label=NuGet&logo=nuget)](https://www.nuget.org/packages?q=NfsSharp)
 
 Managed NFSv3 client and protocol SDK for .NET — pure C#, no native mount required.
+
+![NfsSharp](https://img.shields.io/nuget/dt/NfsSharp?label=NfsSharp&style=flat-square)
+![Client](https://img.shields.io/nuget/dt/NfsSharp.Client?label=Client&style=flat-square)
+![Protocol](https://img.shields.io/nuget/dt/NfsSharp.Protocol?label=Protocol&style=flat-square)
+![OwlCore.Storage.NfsSharp](https://img.shields.io/nuget/dt/OwlCore.Storage.NfsSharp?label=OwlCore&style=flat-square)
 
 ---
 
