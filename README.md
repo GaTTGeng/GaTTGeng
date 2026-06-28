@@ -25,7 +25,7 @@
 ### 📦 HelmSharp
 
 [![CI](https://github.com/GaTTGeng/HelmSharp/actions/workflows/ci.yml/badge.svg)](https://github.com/GaTTGeng/HelmSharp/actions/workflows/ci.yml)
-[![NuGet](https://img.shields.io/nuget/v/HelmSharp.Chart?label=NuGet&logo=nuget)](https://www.nuget.org/packages?q=HelmSharp)
+[![NuGet](https://img.shields.io/nuget/v/HelmSharp.Chart?label=NuGet&logo=nuget)](https://www.nuget.org/packages/HelmSharp.Chart)
 [![Docs](https://img.shields.io/badge/docs-gattgeng.github.io%2FHelmSharp-blue)](https://gattgeng.github.io/HelmSharp/)
 
 Managed Helm rendering and Kubernetes release workflows for .NET — no `helm` binary required.
@@ -45,7 +45,7 @@ Managed Helm rendering and Kubernetes release workflows for .NET — no `helm` b
 ### 🗂 NfsSharp
 
 [![CI](https://github.com/GaTTGeng/NfsSharp/actions/workflows/ci.yml/badge.svg)](https://github.com/GaTTGeng/NfsSharp/actions/workflows/ci.yml)
-[![NuGet](https://img.shields.io/nuget/v/NfsSharp.Client?label=NuGet&logo=nuget)](https://www.nuget.org/packages?q=NfsSharp)
+[![NuGet](https://img.shields.io/nuget/v/NfsSharp.Client?label=NuGet&logo=nuget)](https://www.nuget.org/packages/NfsSharp.Client)
 
 Managed NFSv3 client and protocol SDK for .NET — pure C#, no native mount required.
 
