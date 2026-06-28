@@ -49,10 +49,8 @@ Managed Helm rendering and Kubernetes release workflows for .NET — no `helm` b
 
 Managed NFSv3 client and protocol SDK for .NET — pure C#, no native mount required.
 
-![NfsSharp](https://img.shields.io/nuget/dt/NfsSharp?label=NfsSharp&style=flat-square)
 ![Client](https://img.shields.io/nuget/dt/NfsSharp.Client?label=Client&style=flat-square)
 ![Protocol](https://img.shields.io/nuget/dt/NfsSharp.Protocol?label=Protocol&style=flat-square)
-![OwlCore.Storage.NfsSharp](https://img.shields.io/nuget/dt/OwlCore.Storage.NfsSharp?label=OwlCore&style=flat-square)
 
 ---
 
