@@ -1,43 +1,61 @@
-# GaTT Geng
+<div align="center">
 
-.NET and infrastructure tooling developer based in Wuhan, China.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1d4ed8&height=140&section=header&text=GaTT%20Geng&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=.NET%20Infrastructure%20SDK%20Developer&descAlignY=75&descSize=14)
 
-I mostly work on managed SDKs that make platform protocols usable from ordinary .NET applications: chart rendering and Kubernetes release workflows on one side, network file-system clients and RPC protocol models on the other.
+</div>
 
-## Focus
+---
 
-- C# / .NET libraries with clean NuGet distribution.
-- Kubernetes, Helm-style workflows, and deployment automation.
-- NFS, RPC/XDR protocol modeling, and storage-facing client APIs.
-- Compatibility testing against real tools and services instead of only hand-written fixtures.
+<div align="center">
 
-## Projects
+[![HelmSharp](https://img.shields.io/badge/HelmSharp-Helm%20SDK%20for%20.NET-2563eb?style=for-the-badge&logo=helm&logoColor=white)](https://github.com/GaTTGeng/HelmSharp)
+&nbsp;
+[![NfsSharp](https://img.shields.io/badge/NfsSharp-NFSv3%20Client%20for%20.NET-0ea5e9?style=for-the-badge&logo=files&logoColor=white)](https://github.com/GaTTGeng/NfsSharp)
 
-### [HelmSharp](https://github.com/GaTTGeng/HelmSharp)
+</div>
 
-[![HelmSharp CI](https://github.com/GaTTGeng/HelmSharp/actions/workflows/ci.yml/badge.svg)](https://github.com/GaTTGeng/HelmSharp/actions/workflows/ci.yml)
-[![NuGet](https://img.shields.io/nuget/v/HelmSharp.Action.svg)](https://www.nuget.org/packages/HelmSharp.Action)
+---
 
-A managed Helm-style SDK for .NET. HelmSharp is aimed at applications that need to load charts, merge values, render templates, package charts, inspect repositories, and drive release operations against Kubernetes without treating the Helm CLI as a runtime dependency.
+### 📦 HelmSharp
 
-The current work is centered on Helm template parity: golden tests compare HelmSharp output with `helm template` across small fixtures and real public charts such as ingress-nginx, cert-manager, metrics-server, external-dns, and podinfo.
+[![CI](https://github.com/GaTTGeng/HelmSharp/actions/workflows/ci.yml/badge.svg)](https://github.com/GaTTGeng/HelmSharp/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/HelmSharp.Action?label=NuGet&logo=nuget)](https://www.nuget.org/packages/HelmSharp.Action)
+[![Downloads](https://img.shields.io/nuget/dt/HelmSharp.Action?label=downloads)](https://www.nuget.org/packages/HelmSharp.Action)
+[![Docs](https://img.shields.io/badge/docs-gattgeng.github.io%2FHelmSharp-blue)](https://gattgeng.github.io/HelmSharp/)
 
-### [NfsSharp](https://github.com/GaTTGeng/NfsSharp)
+Managed Helm rendering and Kubernetes release workflows for .NET — no `helm` binary required.
 
-[![NfsSharp CI](https://github.com/GaTTGeng/NfsSharp/actions/workflows/ci.yml/badge.svg)](https://github.com/GaTTGeng/NfsSharp/actions/workflows/ci.yml)
-[![NuGet](https://img.shields.io/nuget/v/NfsSharp.Client.svg)](https://www.nuget.org/packages/NfsSharp.Client)
+---
 
-A managed NFS client and protocol SDK for .NET. The high-level client focuses on NFSv3 over TCP: export discovery, mounting, directory traversal, file reads and writes, links, attributes, and file-system capability queries.
+### 🗂 NfsSharp
 
-The lower-level protocol package contains XDR primitives, NFS models, status codes, RPC-related abstractions, and experimental direct NFSv4 COMPOUND APIs for protocol work that needs more control than the facade exposes.
+[![CI](https://github.com/GaTTGeng/NfsSharp/actions/workflows/ci.yml/badge.svg)](https://github.com/GaTTGeng/NfsSharp/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/NfsSharp.Client?label=NuGet&logo=nuget)](https://www.nuget.org/packages/NfsSharp.Client)
+[![Downloads](https://img.shields.io/nuget/dt/NfsSharp.Client?label=downloads)](https://www.nuget.org/packages/NfsSharp.Client)
 
-## GitHub Stats
+Managed NFSv3 client and protocol SDK for .NET — pure C#, no native mount required.
 
-![GaTTGeng GitHub stats](https://github-readme-stats.vercel.app/api?username=GaTTGeng&show_icons=true&hide_border=true&theme=transparent)
+---
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaTTGeng&layout=compact&hide_border=true&theme=transparent)
+### 🛠 Stack
 
-## Links
+[![C#](https://img.shields.io/badge/C%23-.NET-512bd4?style=flat-square&logo=csharp)](https://dotnet.microsoft.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
 
-- [NuGet profile](https://www.nuget.org/profiles/GaTT)
-- [HelmSharp documentation](https://gattgeng.github.io/HelmSharp/)
+---
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GaTTGeng&show_icons=true&hide_border=true&theme=transparent&hide_rank=true)
+
+</div>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:2563eb&height=80&section=footer)
+
+</div>
