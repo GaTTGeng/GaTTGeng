@@ -25,8 +25,8 @@
 ### 📦 HelmSharp
 
 [![CI](https://github.com/GaTTGeng/HelmSharp/actions/workflows/ci.yml/badge.svg)](https://github.com/GaTTGeng/HelmSharp/actions/workflows/ci.yml)
-[![NuGet](https://img.shields.io/nuget/v/HelmSharp.Action?label=NuGet&logo=nuget)](https://www.nuget.org/packages/HelmSharp.Action)
-[![Downloads](https://img.shields.io/nuget/dt/HelmSharp.Action?label=downloads)](https://www.nuget.org/packages/HelmSharp.Action)
+[![NuGet](https://img.shields.io/nuget/v/HelmSharp.Chart?label=NuGet&logo=nuget)](https://www.nuget.org/packages?q=HelmSharp)
+[![Downloads](https://img.shields.io/nuget/dt/HelmSharp.Chart?label=downloads)](https://www.nuget.org/packages?q=HelmSharp)
 [![Docs](https://img.shields.io/badge/docs-gattgeng.github.io%2FHelmSharp-blue)](https://gattgeng.github.io/HelmSharp/)
 
 Managed Helm rendering and Kubernetes release workflows for .NET — no `helm` binary required.
