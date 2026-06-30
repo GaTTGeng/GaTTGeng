@@ -58,7 +58,7 @@ Managed NFSv3 client and protocol SDK for .NET — pure C#, no native mount requ
 
 ![GitHub stats](./profile/stats.svg)
 &nbsp;
-![Streak](./profile/streak.svg)
+![Streak](https://streak-stats.demolab.com?user=GaTTGeng&hide_border=true&theme=transparent)
 
 </div>
 

@@ -28,18 +28,10 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate streak card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: streak
-          options: user=${{ github.repository_owner }}&hide_border=true&theme=transparent
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit updated SVGs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'chore: update stats SVGs [skip ci]'
-          file_pattern: 'profile/*.svg'
+          commit_message: 'chore: update stats SVG [skip ci]'
+          file_pattern: 'profile/stats.svg'
           commit_user_name: 'github-actions[bot]'
           commit_user_email: 'github-actions[bot]@users.noreply.github.com'
