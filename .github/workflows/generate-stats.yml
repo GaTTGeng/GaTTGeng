@@ -28,10 +28,14 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Pull latest remote changes
+        run: git pull --rebase origin main
+
       - name: Commit updated SVGs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: update stats SVG [skip ci]'
           file_pattern: 'profile/stats.svg'
+          skip_dirty_check: true
           commit_user_name: 'github-actions[bot]'
           commit_user_email: 'github-actions[bot]@users.noreply.github.com'
