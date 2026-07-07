@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">GaTT Geng's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 125, Total PRs: 91, Total Issues: 82, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 128, Total PRs: 93, Total Issues: 82, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 155.2424271794503;
+        stroke-dashoffset: 154.5104698361607;
       }
     }
   
@@ -166,7 +166,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >125</text>
+      >128</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -181,7 +181,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >91</text>
+      >93</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
