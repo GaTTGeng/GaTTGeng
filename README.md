@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![HelmSharp](https://img.shields.io/badge/HelmSharp-Helm%20SDK%20for%20.NET-2563eb?style=for-the-badge&logo=helm&logoColor=white)](https://github.com/GaTTGeng/HelmSharp)
+<a href="https://github.com/GaTTGeng/HelmSharp"><img src="https://raw.githubusercontent.com/GaTTGeng/HelmSharp/master/docs/public/wordmark.svg" alt="HelmSharp" height="40"></a>
 &nbsp;
 [![NfsSharp](https://img.shields.io/badge/NfsSharp-NFSv3%20Client%20for%20.NET-0ea5e9?style=for-the-badge&logo=files&logoColor=white)](https://github.com/GaTTGeng/NfsSharp)
 
