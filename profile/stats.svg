@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">GaTT Geng&#39;s GitHub Stats, Rank: B+</title>
+        <title id="titleId">GaTT Geng&#39;s GitHub Stats, Rank: B</title>
         <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 398, Total PRs: 161, Total Issues: 152, Contributed to (last year): 1</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 123.94692207143186;
+        stroke-dashoffset: 125.850917619062;
       }
     }
   
